@@ -15,8 +15,4 @@ class SitioController extends Controller{
   
 }
 
-
-
-
-
 ?>
